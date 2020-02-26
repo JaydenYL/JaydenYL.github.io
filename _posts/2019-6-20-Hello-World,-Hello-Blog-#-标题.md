@@ -25,7 +25,7 @@ I.**我搭建博客的原因**
 
 II.**技术支持**
 
-1.[Github](https://github.com) 全球最大的同性交友网站(误)Github提供了一个免费、不限流量的博客平台。
+1.[Github](https://github.com) 全球最大的同性交友网站(误)Github提供了一个免费、不限流量的博客平台Github Pages.（[我的GitHub](github.com/JaydenYL))。
 
 2.[beiyuu](https://www.beiyuu.com) 和[qiubaiying](https://github.com/qiubaiying/qiubaiying.github.io)提供了博客搭建教程。
 
