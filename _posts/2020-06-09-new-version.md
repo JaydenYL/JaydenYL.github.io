@@ -7,7 +7,7 @@ author: Jayden Yu
 cover: "https://i.loli.net/2020/06/09/GcBXCwJVdiqP9F1.jpg"
 cover_display: True
 location: Sydney, Australia
-description: Only time can cure me. I should be on the road from now on. 
+description: sensitive , fragile , cowardice
 tail: I'm a tail
 ---
 
