@@ -15,3 +15,9 @@ tail: I'm a tail
 
 I played during this semester and failed in comp2823 and data2901. I know it's kind of terrible but this may be the best situation I could made. I am so sensitive , fragile , cowardice and easily-give-up when facing difficulties. Only time can cure me. I should be on the road from now on. 
 
+### II
+
+Previous acticle has been moved to ```Gitbook``` : http://jaydenyl.gitbook.io/
+
+My ```GitHub``` : http://github.com/JaydenYL
+
