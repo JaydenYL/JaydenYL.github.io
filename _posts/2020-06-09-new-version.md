@@ -19,7 +19,7 @@ tail: I'm a tail
 
 ### II
 
-<br>**Previous article has been partly moved to Gitbook**  : ``` http://jaydenyl.gitbook.io/```
+<br>**Previous article has been archived and partly moved to Gitbook**  : ``` http://jaydenyl.gitbook.io/```
 
 **My GitHub** : ```http://github.com/JaydenYL```
 
