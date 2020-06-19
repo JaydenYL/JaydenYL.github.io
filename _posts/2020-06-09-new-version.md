@@ -7,7 +7,7 @@ author: Jayden Yu
 cover: "https://i.loli.net/2020/06/09/GcBXCwJVdiqP9F1.jpg"
 cover_display: True
 location: Sydney, Australia
-description: sensitive , fragile , cowardice
+description: terrible, but acceptable
 tail: I'm a tail
 ---
 
