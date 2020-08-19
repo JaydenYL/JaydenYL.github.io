@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "New Version , New Vision"
+title:  The end
 date:   2020-06-08 23:59 UTC+10
 categories: jekyll theme
 author: Jayden Yu
 cover: "https://i.loli.net/2020/06/09/GcBXCwJVdiqP9F1.jpg"
 cover_display: True
 location: Sydney, Australia
-description: terrible, but acceptable
+description: 
 tail: I'm a tail
 ---
 
