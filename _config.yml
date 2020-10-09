@@ -3,9 +3,9 @@ domain: "https://yuliuu.com"
 baseurl: " " # the subpath of your site, e.g. /blog
 url: "https://jaydenyl.github.io/" # the base hostname & protocol for your site
 permalink: /:title/
-avatar: /assets/IMG_3360.JPG   #  头像
+avatar: /assets/IMG_1832.JPG   #  头像
 about: /assets/about.jpg
-favicon: /assets/IMG_3360.JPG #原来是favicon.ico 不知道是否一定要ico文件 ... ... 好吧，并不
+favicon: /assets/IMG_1832.JPG #原来是favicon.ico 不知道是否一定要ico文件 ... ... 好吧，并不
 basecss: 
 # Theme specific configuration
 title: YULIU's BLOG
@@ -13,7 +13,7 @@ description: >
   Reading is fundamental and fun to mental.
 
 # Contact and social media links
-#twitter_username: songrogero
+#twitter_username: 
 github_username: JaydenYL
 facebook_username: yuliugoo
 #instagram_username: 
